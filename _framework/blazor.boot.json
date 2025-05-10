@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Daniel-Hartwich",
   "resources": {
-    "hash": "sha256-zN9wivj1yDL5u5+A71pD5AEjpPdfo2RSGq6Px4pFxMQ=",
+    "hash": "sha256-8pSC7VejGZz/ItMl7otmaaIAy6vXroEmXu0V4/oqoWo=",
     "jsModuleNative": {
       "dotnet.native.8.0.15.l5bze06whq.js": "sha256-ftpNqtARtVNE8ku5eB/jXoklb41UQ+EutUHfwmbNTBY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Daniel-Hartwich.wasm": "sha256-9MixNrg5ruvkYs3W4H9dR/Q6M4l3G6JMwaIvKBG7bDM=",
+      "Daniel-Hartwich.wasm": "sha256-fwmC8x5HeCur+GfUM0ttpLNfNcq/VD8OpkcED3MTMgk=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-6FDWa+EdA6q6jx0/A1Q7lL5/DFeGuOJMJUgdT6t118E=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-zzuAt/FHJ0SWMYUcT9hwzKLNaeug7vapqJcROQqkqzg=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-fBqw1fwDIGHXEilpEF3XAl1GEIGrg/Mee9XcqCb473o=",
